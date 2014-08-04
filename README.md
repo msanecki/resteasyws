@@ -1,4 +1,4 @@
 resteasyws
 ==========
 
-Simple rest webservice based on resteasy freamwork
+Simple rest webservice based on resteasy framework
